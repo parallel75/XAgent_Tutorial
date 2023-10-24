@@ -8,6 +8,6 @@
 * assets 目录下配置文件
 
 ## 视频讲解
-* B站       
+* B站       https://www.bilibili.com/video/BV1BN411W7VH/
 * youtube   https://youtu.be/b-aC49Fn13U
 
